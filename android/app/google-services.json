@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "733103503682",
+    "firebase_url": "https://ecommerce-6c284.firebaseio.com",
+    "project_id": "ecommerce-6c284",
+    "storage_bucket": "ecommerce-6c284.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733103503682:android:013f584f3ed6a6fd4df0db",
+        "android_client_info": {
+          "package_name": "com.arun.onlineshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733103503682-blovfj5mm411qq0tfgphlaj17t8m169k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arun.onlineshop",
+            "certificate_hash": "3fe6730622c54fba34f8920d5124d84b1794a2ea"
+          }
+        },
+        {
+          "client_id": "733103503682-l5la3s0a4ecjvbulq97jtj42a9biouae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUlrX15ZVbe0VKMKNzH4OH8Pc4gME7VG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733103503682-l5la3s0a4ecjvbulq97jtj42a9biouae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
