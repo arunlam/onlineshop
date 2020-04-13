@@ -17,7 +17,7 @@ class Home extends StatelessWidget {
       backgroundColor: Colors.white,
       body: ListView(
         children: <Widget>[
-          _carouselSlides(),
+          // _carouselSlides(),
           Padding(
             padding: const EdgeInsets.fromLTRB(16, 8, 8, 8),
             child: Text('Categories'),
@@ -28,7 +28,8 @@ class Home extends StatelessWidget {
             child: Text('Recent Products'),
           ),
           Container(
-            height: 360,
+            // height: MediaQuery.of(context).size.height * 0.72,
+            height: 400,
             child: Products(),
           ),
         ],
